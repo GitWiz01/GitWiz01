@@ -1,6 +1,9 @@
 # Hello, folks ! <img src="https://camo.githubusercontent.com/a317930756e224fe9e139357d41031547ad2ea9c1c6947aa9af3061d888ff14f/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966" width ="26px"></img><img src="https://camo.githubusercontent.com/a317930756e224fe9e139357d41031547ad2ea9c1c6947aa9af3061d888ff14f/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966" width ="26px"></img><img src="https://camo.githubusercontent.com/a317930756e224fe9e139357d41031547ad2ea9c1c6947aa9af3061d888ff14f/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966" width ="26px"></img>
 
 <img src="https://media.tenor.com/95bDJ8Jt6pUAAAAd/blue-discord.gif" align= "center" width="100%">
+<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GitWiz01&label=Profile%20views&color=08466D&style=flat" alt="GitWiz01" /> </p>
+
 
 # 🧑‍💻 About Me:
 🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning Javascript and React<br>💬 Ask me about Open Source<br>⚡ Fun fact : I'm an athlete too 🐺
