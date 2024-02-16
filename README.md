@@ -2,7 +2,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 
-
+- 🥷 Working: Graphic Designer at Village Company
 - 🔨 Revamping: [Synclify](https://github.com/synclify/Synclify/pull/66) UI and [GrabTern](https://github.com/anmode/grabtern-frontend/pull/826) logo </a>.
 - 🧩 Building: [Project D&W](https://github.com/GitWiz01/Project-D-W)
 
